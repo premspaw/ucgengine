@@ -1,0 +1,5 @@
+{
+  "name": "UGC Ad Engine",
+  "description": "A machine to create UGC content by uploading a character and product to generate an ultra-realistic photo, script, and voice dialogue.",
+  "requestFramePermissions": []
+}
